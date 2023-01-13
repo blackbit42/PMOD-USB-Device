@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "USB_PMOD")(type "KiCad")(uri "${KIPRJMOD}/PMOD-USB-Device.kicad_sym")(options "")(descr ""))
+)
